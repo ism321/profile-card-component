@@ -1,0 +1,143 @@
+*{margin: 0;
+  padding: 0;
+  font-family: arial;
+
+}
+
+body{
+      background-color: #19A1AE;
+      justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    display: flex;
+ 
+    
+    }
+
+.container{width: 350px;
+           height:374px ;
+           border-radius:20px;
+           background-color: #fff;
+           overflow: hidden;
+           box-shadow: 0 24px  48px rgba(0, 0, 0, 0.099);
+        
+           
+           
+
+}
+
+.img1{width: 350px;
+    height: 140px;
+
+}
+     
+
+
+.img{border-radius: 50%;
+    width: 96px;
+    height:96px ;
+    margin-left: 120px;
+    margin-top: -50px;
+    border: 7px solid #Fff;
+
+    
+
+
+}
+.box1{width:180px ;
+     height:23px ;
+     display: flex;
+     margin-left: 90px;
+     margin-top:10px ;
+
+}
+#box1{width:140px ;
+      height:18px ;
+      color: #2E3349;
+
+}
+#box2{width:22px ;
+      height:18px ;
+      margin-top: 6px;
+      margin-left: 10px;
+      font-size: 25px;
+      
+      color:#6B7082 ;
+      
+
+}
+.box2{width:50px ;
+      height:17px ;
+font-size: 20px;
+margin-left:140px ;
+margin-top:20px ;
+color: #6B7082;
+
+}
+
+.head{width:249px ;
+      height:40px ;
+      display: flex;
+margin-top: 30px;
+margin-left: 40px;
+
+}
+.box3{width:35px ;
+      height:18px ;
+      color: #2E3349;
+      font-weight: 600;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+}
+.box4{width:56px ;
+      height:10px;
+color: #6B7082;
+font-weight: 300;
+margin-top: 6px;
+
+}
+.box5{width:46px ;
+     height:18px ;
+margin-left: 80px;
+color: #2E3349;
+font-weight: 600;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.box6{width:29px ;
+      height:10px ;
+      color: #6B7082;
+      font-weight: 300;
+      margin-top: 6px;
+      margin-right: 10px;
+}
+
+.box7{width: 38px;
+  height:18px ;
+margin-left: 70px;
+color: #2E3349;
+font-weight:600;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.box8{width:40px ;
+  height:10px ;
+  color: #6B7082;
+  font-weight: 300;
+  margin-top:6px;
+  margin-right: 7px;
+}
+.help{
+      letter-spacing: 0.19rem;
+      font-size: smaller;
+}
+.hh{margin-top:15px;
+color: #6B7082;
+}
